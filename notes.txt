@@ -1,1 +1,3 @@
 Learning Git Basics
+Learning How to make Branches in Git
+Learning Branching using "git switch" command.
